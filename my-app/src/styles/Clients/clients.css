@@ -1,0 +1,36 @@
+.App {
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.App-header {
+    padding: 20px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.content {
+    display: flex;
+    flex: 1;
+    padding: 20px;
+}
+
+.full-width-container {
+    width: 100%;
+    flex: 1;
+}
+
+.nav {
+    width: 200px;
+    padding: 20px;
+}
+
+.table-container {
+    flex: 1;
+    width: 100%;
+}
